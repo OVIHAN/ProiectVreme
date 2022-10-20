@@ -1,3 +1,4 @@
-from django.shortcuts import render
+from rest_framework import generics, status
+import pandas as pd
 
-# Create your views here.
+
